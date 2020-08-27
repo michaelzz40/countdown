@@ -112,7 +112,22 @@ export default {
 }
 
 .seconds {
+  font-size: 1.5em;
   max-width: 60px;
+}
+.hours {
+  font-size: 1.5em;
+}
+.minutes {
+  font-size: 1.5em;
+}
+.days {
+  font-size: 1.5em;
+}
+
+.leading-snug {
+  font-size: 1.5em;
+  align-self: center;
 }
 
 @keyframes fadeIn {
